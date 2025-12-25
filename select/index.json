@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Grateful Pain",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-25T10:03:20.227997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Grateful Pain",
+      "artist": "BE:FIRST",
+      "has_synced": true,
+      "path": "select/01_Grateful_Pain_BE_FIRST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Grateful Pain",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Grateful_Pain_BE_FIRST.txt"
+    }
+  ]
+}
